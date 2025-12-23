@@ -1,0 +1,5 @@
+E xin hết bài ạ
+Chúc thầy buổi tối tốt lành
+pyinstaller --onefile --windowed --icon=icon.ico caythong.py
+
+
